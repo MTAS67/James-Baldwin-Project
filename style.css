@@ -71,11 +71,12 @@ body {
    
 }
 .hero-content-main-text-sub-text{
-    border: black 5px solid; 
-    margin-right:600px; 
-    margin-bottom:0px; 
+    border: black 5px dashed; 
+     
     display:flex; 
-    width:128px; 
+    height:auto; 
+    flex-direction:column; 
+    
     
 }
 .hero-content-main-text {
