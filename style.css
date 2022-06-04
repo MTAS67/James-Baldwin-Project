@@ -16,7 +16,7 @@ body {
     border: yellow solid 5px;
     height:auto;
     font-size: 24px; 
-    margin-bottom:128;
+    margin-bottom:128px;
     display:flex; 
     justify-content: space-between;
     flex:1; 
